@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Formulas</string>
+    <string name="tables">Таблицы</string>
+    <string name="formulas">Формулы</string>
+    <string name="system_Si">Система СИ:</string>
+    <string name="description">Описание:</string>
+    <string name="name_termin">Название:</string>
+    <string name="go_back">Назад</string>
+</resources>
